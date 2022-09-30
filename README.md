@@ -12,7 +12,7 @@
  <a href="iemmanuel.sandovalv@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-iemmanuel.sandovalv@gmail.com-blue?style=flat&logo=gmail"></a>
 <h5>ok this is embarrassing but at the moment I only have the Spanish version available 🤠</h5>
 <br>
-<h3>Hola, Bienvenido a mi LinkedIn, mi nombre es Emmanuel Sandoval y soy un Desarrollador Full Stack (Full Stack Developer) de México. Empecé a programar a inicios de 2022, graduándome en el instituto Henry a mediados del mismo, y desde entonces he aprendido a trabajar con una gran variedad de Tecnologías, siendo las más resaltables las siguientes:
+<h3>Hola, Bienvenido a mi GitHub, mi nombre es Emmanuel Sandoval y soy un Desarrollador Full Stack (Full Stack Developer) de México. Empecé a programar a inicios de 2022, graduándome en el instituto Henry a mediados del mismo, y desde entonces he aprendido a trabajar con una gran variedad de Tecnologías, siendo las más resaltables las siguientes:
   <br><br><br><br><br>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
